@@ -3,3 +3,16 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+section {
+    padding: 5%;
+}
+
+.card {
+    padding: 1rem;
+    border: 1px solid blue;
+    border-radius: 1rem;
+    max-width:20%;
+    display: inline-block;
+}
+
